@@ -1,0 +1,19 @@
+{
+  "name": "fun-node",
+  "version": "0.0.0",
+  "description": "A project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrisPlunkett/fun-node.git"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "mysql": "^2.6.2"
+  }
+}
